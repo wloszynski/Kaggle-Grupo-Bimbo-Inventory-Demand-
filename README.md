@@ -1,2 +1,2 @@
-# Kaggle-Grupo-Bimbo-Inventory-Demand-
-https://www.kaggle.com/c/grupo-bimbo-inventory-demand/overview/evaluation
+# Kaggle-Restaurant-Revenue-Prediction
+https://www.kaggle.com/c/restaurant-revenue-prediction/overview
